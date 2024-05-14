@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOnwuFqxZKlDjMINkW88qXO7pBC5dUr+0rwJLt7eEKQe4Shyk+qnTS4NBaHBDpT7I6spNU7hhtQ69yWRGyXhng==",
+  "success": true,
+  "projectFilePath": "/home/santy/Descargas/pokemong-api-main/PokemonG.csproj",
+  "expectedPackageFiles": [
+    "/home/santy/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.17/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.17.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.entityframeworkcore/7.0.17/microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.17/microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.17/microsoft.entityframeworkcore.analyzers.7.0.17.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.17/microsoft.entityframeworkcore.inmemory.7.0.17.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.17/microsoft.entityframeworkcore.relational.7.0.17.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/santy/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

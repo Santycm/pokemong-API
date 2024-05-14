@@ -1,0 +1,97 @@
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/appsettings.Development.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/appsettings.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.deps.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.runtimeconfig.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.pdb
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.csproj.AssemblyReference.cache
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.GeneratedMSBuildEditorConfig.editorconfig
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.AssemblyInfoInputs.cache
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.AssemblyInfo.cs
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.csproj.CoreCompileInputs.cache
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.MvcApplicationPartsAssemblyInfo.cache
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets.build.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets.development.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.PokemonG.Microsoft.AspNetCore.StaticWebAssets.props
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonG.props
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonG.props
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonG.props
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets.pack.json
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/scopedcss/bundle/PokemonG.styles.css
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.csproj.CopyComplete
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/refint/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.pdb
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.genruntimeconfig.cache
+/home/santy/Escritorio/PROJECTS C#/todo-list/pokemon-api/PokemonG/obj/Debug/net8.0/ref/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.csproj.AssemblyReference.cache
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.GeneratedMSBuildEditorConfig.editorconfig
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.AssemblyInfoInputs.cache
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.AssemblyInfo.cs
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.csproj.CoreCompileInputs.cache
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.MvcApplicationPartsAssemblyInfo.cache
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/refint/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.pdb
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/appsettings.Development.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/appsettings.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.deps.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.runtimeconfig.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/PokemonG.pdb
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets.build.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets.development.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.PokemonG.Microsoft.AspNetCore.StaticWebAssets.props
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonG.props
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonG.props
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonG.props
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/staticwebassets.pack.json
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/scopedcss/bundle/PokemonG.styles.css
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.csproj.CopyComplete
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.genruntimeconfig.cache
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/ref/PokemonG.dll
+/home/santy/Escritorio/PROJECTS C#/pokemon-api/PokemonG/obj/Debug/net8.0/PokemonG.sourcelink.json
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/appsettings.Development.json
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/appsettings.json
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/PokemonG
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/PokemonG.deps.json
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/PokemonG.runtimeconfig.json
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/PokemonG.dll
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/PokemonG.pdb
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/santy/Descargas/pokemong-api-main/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.csproj.AssemblyReference.cache
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.GeneratedMSBuildEditorConfig.editorconfig
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.AssemblyInfoInputs.cache
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.AssemblyInfo.cs
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.csproj.CoreCompileInputs.cache
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.MvcApplicationPartsAssemblyInfo.cache
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets.build.json
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets.development.json
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets/msbuild.PokemonG.Microsoft.AspNetCore.StaticWebAssets.props
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets/msbuild.build.PokemonG.props
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokemonG.props
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokemonG.props
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/staticwebassets.pack.json
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/scopedcss/bundle/PokemonG.styles.css
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.csproj.CopyComplete
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.dll
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/refint/PokemonG.dll
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.pdb
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/PokemonG.genruntimeconfig.cache
+/home/santy/Descargas/pokemong-api-main/obj/Debug/net8.0/ref/PokemonG.dll
