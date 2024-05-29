@@ -1,13 +1,17 @@
 **FORMATO JSON**
-_Para agregar un solo pokemon con valores de habilidades aleatorios_
-```{
+### Para agregar un solo pokemon con valores de habilidades aleatorios
+```
+{
   "id":1,
   "name":"Steelix",
   "type":"Acero"
-}```
+}
 
-_Para agregar multiples pokemones con valores de habilidades aleatorios_
-```[{
+```
+
+### Para agregar multiples pokemones con valores de habilidades aleatorios
+```
+[{
   "id":1,
   "name":"Kingler",
   "type":"Agua"
@@ -21,9 +25,11 @@ _Para agregar multiples pokemones con valores de habilidades aleatorios_
   "id":3,
   "name":"Steelix",
   "type":"Acero"
-}]```
-_Para agregar un solo pokemon con valores de habilidades predifinidos_
-```{
+}]
+```
+### Para agregar un solo pokemon con valores de habilidades predifinidos
+```
+{
   "id":1,
   "name":"Steelix",
   "type":"Acero",
@@ -37,10 +43,12 @@ _Para agregar un solo pokemon con valores de habilidades predifinidos_
       "defense": 16.39
     }
     ]
-}```
+}
+```
 
-_Para agregar multiples pokemones con valores de habilidades predefinidos_
-```[{
+### Para agregar multiples pokemones con valores de habilidades predefinidos
+```
+[{
   "id":1,
   "name":"Kingler",
   "type":"Agua",
@@ -84,21 +92,28 @@ _Para agregar multiples pokemones con valores de habilidades predefinidos_
       "defense": 16.39
     }
     ]
-}]```
+}]
+```
 
-_Para editar un Pokemon (PUT:Solo se permite actuallizar el nombre y tipo)_
-```{
+### Para editar un Pokemon (PUT:Solo se permite actuallizar el nombre y tipo)
+```
+{
   "id":1,
   "name":"Steelix",
   "type":"Acero"
-}```
+}
+```
 
-_Para editar parcialmente un Pokemon (PATCH: Solo se permite actuallizar el nombre y tipo)_
-```{
+### Para editar parcialmente un Pokemon (PATCH: Solo se permite actuallizar el nombre y tipo)
+```
+{
   "type":"Aceroo"
-}```
+}
+```
 
 **COMANDS FOR INIT WEB API**
-```dotnet new web```
-```dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 7.0.17```
-```dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore --version 7.0.17
+```
+dotnet new web
+dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 7.0.17
+dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore --version 7.0.17
+```
